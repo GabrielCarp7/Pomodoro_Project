@@ -30,7 +30,7 @@ A Python-based Pomodoro timer application that helps manage work and break cycle
 
     ```bash
     git clone https://github.com/GabrielCarp7/Pomodoro_Project.git
-    cd pomodoro-app
+    cd Pomodoro_Project
     ```
 
 2. **Install the required dependencies:**
